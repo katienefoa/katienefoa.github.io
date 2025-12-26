@@ -1,0 +1,35 @@
+technical:
+  - title: Python (NumPy, Pandas, Scikit-learn)
+    level: Advanced
+  - title: SQL
+    level: Advanced
+  - title: Data Modeling & Warehousing
+    level: Intermediate
+  - title: ETL / ELT Pipelines
+    level: Advanced
+  - title: Apache Spark / PySpark
+    level: Intermediate
+  - title: Machine Learning
+    level: Intermediate
+  - title: Statistical Analysis
+    level: Intermediate
+  - title: Data Visualization (Matplotlib, Seaborn, Power BI/Tableau)
+    level: Intermediate
+  - title: Cloud Platforms (AWS/GCP/Azure)
+    level: Intermediate
+  - title: Docker & Containerization
+    level: Intermediate
+  - title: Git & Version Control
+    level: Advanced
+
+soft:
+  - title: Analytical Thinking
+    level: Advanced
+  - title: Problem Solving
+    level: Advanced
+  - title: Technical Writing & Documentation
+    level: Intermediate
+  - title: Communication with Stakeholders
+    level: Intermediate
+  - title: Leadership & Mentoring
+    level: Intermediate
