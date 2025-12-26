@@ -15,3 +15,12 @@ I am a lifelong learner who enjoys teaching and sharing knowledge,which has shap
 
 I am currently seeking opportunities that leverage my expertise in data science and data engineering, where I can apply my industry knowledge while continuing to grow as a technical leader and strategist. 
 I welcome the chance to collaborate on data-driven teams and contribute to building scalable, high-impact solutions.
+
+## My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softskills.md %}
