@@ -1,0 +1,7 @@
+---
+title: "My writing"
+layout: archive
+---
+
+I love to write but dont always get the time. Below are my articles organized by category. 
+Reach out to me if you're interested in any of these topics and want to chat
