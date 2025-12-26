@@ -3,7 +3,7 @@ layout: archive
 title: About
 permalink: /about/
 ---
-# Hi!, I'm Katienefoa Soro
+# Hi! I'm Katienefoa Soro
 I started my career as an IT support technician. I quickly became proficient in the software programs
 I was using and began teaching others. Over the years, I grew curious about how software is created and why some products are difficult to use while others feel intuitive.
 This led me to my second career in data engineering and backend development. I taught myself
