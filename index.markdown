@@ -10,4 +10,4 @@ author_profile: true
 # Hi there ! I am Katienefoa Soro.
 I am a data scientist  and  self-taught data engineer, programer, instructor, developer
 and writer. 
-Check out some of my favorites articles and projects below or go to [My work](/mywork) or [My writing](/mywriting) to see a categorized list.
+Check out some of my favorites articles and projects below or go to [My work](/mywork) or [My writing](/mywriting).
