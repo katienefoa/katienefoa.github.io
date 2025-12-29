@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Katienefoa Soro
+author_profile: true
 ---
 ![Katienefoa Soro.](/assets/images/soroo.jpg){:.avatar}
 # Hi there ! I am Katienefoa Soro.
