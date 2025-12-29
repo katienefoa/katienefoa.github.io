@@ -1,0 +1,11 @@
+Katienefoa Soro:
+  name        : "Katienefoa Soro"
+  bio         : "Let's talk about Artificial Intelligence and code! Reach out via the links below."
+  avatar      : "https://placehold.co/400"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sorokatienefoa1@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/katienefoa-soro-253236189/"
