@@ -1,6 +1,8 @@
 ---
 title: "My writing"
 layout: archive
+author: Katienefoa Soro
+author_profile: true
 ---
 
 I love to write but don't always get the time. Below are my articles organized by category. 
