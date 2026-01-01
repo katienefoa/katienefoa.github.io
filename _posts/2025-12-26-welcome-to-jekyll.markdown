@@ -2,7 +2,8 @@
 layout: posts
 title:  "Welcome to Jekyll!"
 date:   2025-12-26 13:00:59 +0000
-categories: work
+categories: article
+home_highlight: true
 tags: Education
 description: This is an article about education
 header:
